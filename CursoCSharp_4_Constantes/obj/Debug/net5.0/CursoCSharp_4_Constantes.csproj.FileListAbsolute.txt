@@ -1,0 +1,16 @@
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.exe
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.deps.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.runtimeconfig.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.runtimeconfig.dev.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\ref\CursoCSharp_4_Constantes.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\bin\Debug\net5.0\CursoCSharp_4_Constantes.pdb
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.csproj.AssemblyReference.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.AssemblyInfoInputs.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.AssemblyInfo.cs
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\ref\CursoCSharp_4_Constantes.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.pdb
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\CursoCSharp_4_Constantes\obj\Debug\net5.0\CursoCSharp_4_Constantes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.exe
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.deps.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.runtimeconfig.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.runtimeconfig.dev.json
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ref\ProyectoPruebaCSharp2.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\bin\Debug\net5.0\ProyectoPruebaCSharp2.pdb
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.csproj.AssemblyReference.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.AssemblyInfoInputs.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.AssemblyInfo.cs
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ref\ProyectoPruebaCSharp2.dll
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.pdb
+C:\Users\C.JPADRM\source\repos\EjemploConsolaNetFramework\ProyectoPruebaCSharp2\obj\Debug\net5.0\ProyectoPruebaCSharp2.genruntimeconfig.cache
